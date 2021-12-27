@@ -1,0 +1,2 @@
+# plotly
+Basic of Plotly.
